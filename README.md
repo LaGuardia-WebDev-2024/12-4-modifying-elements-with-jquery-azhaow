@@ -18,7 +18,7 @@ Now, use the jQuery `html()` method to change the paragraph to be about butterfl
 _Hint:_<br>`$("  ").html(   )`
 <br><br>
 ### Step #3 - Change the image <br>
-Now, use the jQuery `attr()` method to change the image to be of a butterfly, using our butterfly image at 'https://www.kasandbox.org/programming-images/animals/butterfly_monarch.png'.
+Now, use the jQuery `attr()` method to change the image to be of a butterfly, using our butterfly image at <br>`https://www.kasandbox.org/programming-images/animals/butterfly_monarch.png`
 <br><br>
 _Hint:_<br>`$("  ").attr(  ,  )`
 <br><br>
